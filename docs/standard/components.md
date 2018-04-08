@@ -18,7 +18,7 @@ ms.lasthandoff: 02/19/2018
 ---
 # <a name="net-architectural-components"></a>.NET 体系结构组件
 
-.NET 应用开发用于并运行于一个或多个 .NET 实现。  .NET 实现包括 .NET Framework、.NET Core 和 Mono。 .NET 的所有实现都有一个名为 .NET Standard 的通用 API 规范。 本文简要介绍了每个概念。
+.NET 应用程序可以在一个或多个 .NET 实现上开发并运行。  .NET 实现包括 .NET Framework、.NET Core 和 Mono。 .NET 的所有实现都有一个名为 .NET Standard 的通用 API 规范。 本文简要介绍了每个概念。
 
 ## <a name="net-standard"></a>.NET Standard
 
