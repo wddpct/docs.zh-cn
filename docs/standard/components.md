@@ -32,7 +32,7 @@ ms.lasthandoff: 02/19/2018
 
 .NET 的每个实现都具有以下组件：
 
-- 一个或多个运行时。 示例：用于 .NET Framework 的 CLR、CoreCLR 和用于 .NET Core 的 CoreRT。
+- 一个或多个运行时。 示例：用于 .NET Framework 的 CLR 和用于 .NET Core 的 CoreRT，CoreCLR。
 - 实现 .NET Standard 并且可实现其他 API 的类库。 示例：.NET Framework 基类库、.NET Core 基类库。
 - 可选择包含一个或多个应用程序框架。 示例： [ASP.NET](https://www.asp.net/)、[Windows 窗体](../framework/winforms/windows-forms-overview.md)和 [Windows Presentation Foundation (WPF)](../framework/wpf/index.md) 包含在 .NET Framework 中。
 - 可包含开发工具。 某些开发工具在多个实现之间共享。
